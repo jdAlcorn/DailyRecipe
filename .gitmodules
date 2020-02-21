@@ -1,3 +1,6 @@
 [submodule "DailyRecipe-Android"]
 	path = DailyRecipe-Android
 	url = ../DailyRecipe-Android
+[submodule "DailyRecipe-Server"]
+	path = DailyRecipe-Server
+	url = https://github.com/jdAlcorn/DailyRecipe-Server.git
